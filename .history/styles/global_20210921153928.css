@@ -1,0 +1,8 @@
+@layer component{
+    
+    .link{
+       @apply hover underline cursor-pointer;
+    }
+    
+    
+}
