@@ -14,10 +14,7 @@ function all() {
             <span className="font-mono text-black ">Good</span> using NEXT.JS
             technologies
           </h2>
-          <Avater
-            url="https://yt3.ggpht.com/ytc/AAUvwnjf45JTg_zblu9feye-Yh7jvrKX6S_p4W8grmm-kA=s900-c-k-c0x00ffffff-no-rj"
-            className="ml-auto w-20 h-20 rounded-full animate-bounce "
-          />
+        
 
           <div class="flex flex-col">
             <backquotes class="font-normal text-white text-sm tracking-wider">
