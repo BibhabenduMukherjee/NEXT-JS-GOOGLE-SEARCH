@@ -16,7 +16,7 @@ function all() {
           </h2>
           <Avater
             url="https://yt3.ggpht.com/ytc/AAUvwnjf45JTg_zblu9feye-Yh7jvrKX6S_p4W8grmm-kA=s900-c-k-c0x00ffffff-no-rj"
-            className="ml-auto w-36 h-36 rounded-full animate-bounce "
+            className="ml-auto w-20 h-20 rounded-full animate-bounce "
           />
 
           <div class="flex flex-col">
